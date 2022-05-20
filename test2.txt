@@ -1,1 +1,2 @@
 remote push repository successful!
+you can push or pull prohect from Aris-Git's repository!
